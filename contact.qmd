@@ -1,0 +1,26 @@
+---
+title: " Contact us "
+subtitle: "Want to learn more? Interested in collaborating? Send us a note!"
+about:
+  template: trestles
+---
+</center>
+  <form action="https://formsubmit.co/krupek.1@osu.edu" method="POST">
+    <label for="name">First Name:</label><br>
+    <input type="text" id="first_name" name="first_name" required style="width: 300px; height: 30px;">
+    
+    <label for="name">Last Name:</label><br>
+    <input type="text" id="last_name" name="last_name" required style="width: 300px; height: 30px;"><br>
+    
+    <label for="email">E-mail:</label><br>
+    <input type="email" id="email" name="email" required style="width: 300px; height: 30px;"><br>
+    
+    <label for="name">Subject:</label><br>
+    <input type="text" id="subject" name="subject" required style="width: 300px; height: 30px;"><br>
+    
+    <label for="message">Message:</label><br>
+    <textarea id="message" name="message" rows="4" required style="width: 300px; height: 100px;"></textarea><br>
+    
+   <button type="submit" class="btn btn-primary">Send</button>
+  </form>
+</center>
