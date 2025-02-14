@@ -1,0 +1,82 @@
+/* css styles */
+
+/* Define o plano de fundo vermelho escuro */
+body {
+  background-color: #dadada; /* Vermelho escuro */
+  color: #212121;             /* Texto branco */
+}
+
+/* Estilo da barra de navegação */
+.navbar {
+  background-color: #8B0000; /* Vermelho escuro */
+  border-color: #670000;     /* Vermelho ainda mais escuro */
+}
+
+.navbar a {
+  color: #670000; /* Links na navbar em branco */
+}
+
+.navbar a:hover {
+  color: #212121; /* Links ficam dourados ao passar o mouse */
+}
+
+/* Estilo de botões */
+.btn-primary {
+  background-color: #8B0000; /* Botões vermelhos */
+  border-color: #670000;
+}
+
+.btn-primary:hover {
+  background-color: #FF4500; /* Tom mais claro ao passar o mouse */
+  border-color: #FF0000;
+}
+
+/* Títulos */
+h1, h2, h3, h4, h5, h6 {
+  color: #212121; /* Títulos em branco */
+}
+
+/* Links no texto */
+a {
+  color: #8B0000; 
+}
+
+a:hover {
+  color: #FF6347; /* Vermelho claro ao passar o mouse */
+}
+
+/* Rodapé (faixa no final do site) */
+.footer {
+  background-color: #8B0000; /* Vermelho escuro */
+  color: white;              /* Texto branco */
+  text-align: center;        /* Texto centralizado */
+  padding: 10px 0;           /* Espaçamento interno */
+  position: relative;        /* Posição relativa para ajuste */
+  bottom: 0;
+  width: 100%;               /* Ocupa toda a largura da página */
+  font-size: 0.9em;          /* Tamanho do texto ajustado */
+}
+/* Links no rodapé */
+.footer a {
+  color: #7fffd1; /* Links dourados */
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+/* Seleciona o título principal (H1) */
+H1 {
+  font-size: 1.0em; /* Ajuste para o tamanho desejado */
+  font-style: italic;
+  font-weight: normal  ; /* Personalize o peso da fonte, se necessário */
+  text-align: center; /* Centraliza o título (opcional) */
+}
+
+/* Seleciona o título principal (H2) */
+h2 {
+  font-size: 1.0em; /* Ajuste para o tamanho desejado */
+  font-style: italic;
+  font-weight: normal  ; /* Personalize o peso da fonte, se necessário */
+  text-align: center; /* Centraliza o título (opcional) */
+}
