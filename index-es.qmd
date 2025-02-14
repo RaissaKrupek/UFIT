@@ -1,0 +1,35 @@
+---
+title: " "
+comments: false
+page-layout: full
+format: 
+  html: 
+    theme: journal
+    fontsize: 1.1em
+    linestretch: 1.7
+    backgroundcolor: lightgray
+---
+
+![](ufit_logo.png.png){fig-align="center" width="700"}
+
+<center>
+
+::: {.btn-group role="group" aria-label="About"}
+<a href="index.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">English</button></a> <a href="index-pt.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Português</button></a> <a href="index-es.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Español</button></a>
+:::
+
+<center>
+
+::: {#hero-heading}
+En primer lugar, **¡bienvenido al equipo de Urban Food Innovations!** Agradecemos enormemente su interés y motivación para unirse a nosotros en la Ohio State University. En términos generales, nuestro equipo busca cultivar sistemas de producción de alimentos hortícolas que atiendan a los mercados urbanos y regionales que sean productivos y nutritivos, eficientes en el uso de los recursos, económicamente viables y socialmente responsables. Al unirse a nuestro equipo, usted se compromete a realizar **investigaciones**, realizar experimentos de calidad y analizar datos críticamente para profundizar nuestra comprensión de la agricultura urbana. En esta función, usted se compromete a fomentar y apoyar su crecimiento personal y profesional para alcanzar mejor sus objetivos profesionales y de vida, independientemente de cómo **usted** los defina.
+
+Nuestro equipo está apasionado por construir un sistema alimentario local más innovador que incorpore principios agroecológicos. Nuestro objetivo es lograr esto a través de nuestros valores compartidos: tratar a los demás y a nosotros mismos con respeto y empatía, además de practicar la curiosidad y la innovación. Buscamos posibilitar esto a través de un entorno de trabajo que incluya comunicación, proactividad, colaboración e ingenio.
+:::
+
+![](urban_food.jpg){width="375"} ![](urban_food.jpg){width="375"} ![](urban_food.jpg){width="375"}
+
+<div class="footer">
+
+<p>
+
+The Ohio State University \| <a href="https://www.osu.edu/">Visit Us</a> <br> Prof. Dr. Fernanda Souza Krupek <br> Williams Hall (110A) \| Wooster Campus <br> Phone: (330) 263-8039 \| krupek.1\@osu.edu

@@ -1,0 +1,36 @@
+---
+title: " "
+comments: false
+page-layout: full
+format: 
+  html: 
+    theme: journal
+    fontsize: 1.1em
+    linestretch: 1.7
+---
+
+![](ufit_logo.png.png){fig-align="center" width="700"}
+
+<center>
+
+::: {.btn-group role="group" aria-label="About"}
+<a href="index.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">English</button></a> <a href="index-pt.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Português</button></a> <a href="index-es.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Español</button></a>
+:::
+
+<center>
+
+::: {#hero-heading}
+First, **welcome to the Urban Food Innovations Team!** We greatly appreciate your interest and motivation to join us at The Ohio State University. Broadly, our team seeks to cultivate horticultural food production systems serving urban and regional markets that are productive and nutritive, resource-use efficient, economically viable, and socially responsible. By joining our team, you are committing to pursue **research**, perform quality experiments, and critically analyze data to further our knowledge about urban agriculture. In this role, you are committing to fostering and supporting your personal and professional growth to better meet your career and life goals however **you** define them.
+
+Our team is passionate about building a more innovative local food system that embodies agroecological principles. We aim to achieve this through our shared values -- treating others and ourselves with respect and empathy, as well as practicing curiosity and innovation. We seek to enable this through a work environment that includes communication, proactivity, collaboration, and resourcefulness.
+:::
+
+![](urban_food.jpg){width="375"} ![](urban_food.jpg){width="375"} ![](urban_food.jpg){width="375"}
+
+<div class="footer">
+
+<p>
+
+The Ohio State University \| <a href="https://www.osu.edu/">Visit Us</a> <br> Prof. Dr. Fernanda Krupek <br> Williams Hall (110A) \| Wooster Campus <br> Phone: (330) 263-8039 \| <a href="mailto:krupek.1@osu.edu">krupek.1\@osu.edu
+
+
