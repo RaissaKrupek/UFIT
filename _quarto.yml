@@ -6,7 +6,7 @@ website:
   page-navigation: true
   title: "Ohio Urban Food Sistems"
   site-url: "https://ufit.com/"
-  page-footer: "Website made with Quarto, by Fernanda Krupek." 
+  page-footer: "Website made with Quarto." 
 
   navbar:
     right:
